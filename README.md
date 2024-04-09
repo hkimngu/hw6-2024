@@ -1,2 +1,1 @@
-# hw7-2022
-Starter Code for HW7 - JavaScript basics with Video
+<meta http-equiv="refresh" content="0;url=https://hkimngu.github.io/hw6_2024/video.html">
